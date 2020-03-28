@@ -13,7 +13,7 @@ In this GitHub repository you will find following documentation:
 - Spectrum-Analyzer screenshots for THD measurements
 
 
-## Measurement Results:
+## Measurement Results
 Amplifier Gain: 33.5 (26.84 Vpp out @ 800 mVpp in; 4 Ohms load)
 
 Maximum unclipped power: 53.14 Watts @ 4 Ohms (14.58 Vrms)
@@ -24,5 +24,9 @@ Total Harmonic Distortion (THD) @ 1 kHz
 6.85% @ 1 Watt (4 Ohms load, 2.82 Vrms)  
 3.16% @ 10 Watts (4 Ohms load, 6.32 Vrms)  
 2.86% @ 25 Watts (4 Ohms load, 10.01 Vrms)  
+
+## Important
+Please be aware, that this amplifier doesn't have any safety-features (e.g. short-circuit, DC output, overcurrent, over-temperature etc..).
+So the usage is up to your own risk, in case you consider to rebuild this amplifier.
 
 ![PCB](PCB.jpg)
