@@ -20,9 +20,9 @@ Maximum unclipped power: 53.14 Watts @ 4 Ohms (14.58 Vrms)
 
 Differential DC Offset: 52mV (without Load), 77mV (with 4 Ohms load)
 
-Total Harmonic Distortion (THD) @ 1 kHz
-6.85% @ 1 Watt (4 Ohms load, 2.82 Vrms)
-3.16% @ 10 Watts (4 Ohms load, 6.32 Vrms)
-2.86% @ 25 Watts (4 Ohms load, 10.01 Vrms)
+Total Harmonic Distortion (THD) @ 1 kHz  
+6.85% @ 1 Watt (4 Ohms load, 2.82 Vrms)  
+3.16% @ 10 Watts (4 Ohms load, 6.32 Vrms)  
+2.86% @ 25 Watts (4 Ohms load, 10.01 Vrms)  
 
 ![PCB](PCB.jpg)
