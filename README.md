@@ -18,7 +18,7 @@ Amplifier Gain: 33.5 (26.84 Vpp out @ 800 mVpp in; 4 Ohms load)
 
 Maximum unclipped power: 53.14 Watts @ 4 Ohms (14.58 Vrms)
 
-Differential DC Offset: 52mV (without Load), 77mV (with 4 Ohms load)
+Differential DC Offset: 52mV (without load), 77mV (with 4 Ohms load)
 
 Total Harmonic Distortion (THD) @ 1 kHz  
 6.85% @ 1 Watt (4 Ohms load, 2.82 Vrms)  
