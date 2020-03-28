@@ -3,6 +3,15 @@ This is a design of a discrete PWM closed-loop Class-D amplifier as presented in
 
 The amplifier is powered by 24V, running at 500 kHz switching frequency and is capable of delivering up to nearly 55 watts of unclipped power into a 4 ohms load. Even if the THD measurements seem to be a little bit high, the audible quality through a speaker is (at least in my opinion) on HiFi-level.
 
+
+## YouTube
+I presented all the design-flow of this amplifier in a YouTube video, including concept overview, simulations, PCB board design, LAB testing and listening tests with a Hifi Speaker: 
+https://youtu.be/24sBtnnjK34
+
+In case you still want to get more in detail, there is another video which will face the simulation topics, especially small-signal analysis more in detail:
+https://youtu.be/7M2cWYeBmkc
+
+
 ## In this GitHub repository you will find following documentation
 - Concept Drawing
 - PCB Schematic, Gerber Files and BOM
