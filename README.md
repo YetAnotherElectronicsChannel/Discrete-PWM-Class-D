@@ -9,7 +9,7 @@ The amplifier is powered by 24V, running at 500 kHz switching frequency and is c
 - LTSpice Simulation of LC output filter
 - LTSpice Small-Signal simulation of the main control-loop
 - LTSpice Transient simulation of the whole amplifier
-- Time-Domain oscillopscope screenshots for measuring Gain and RMS voltages during THD measurement
+- Time-Domain oscilloscope screenshots for measuring Gain and RMS voltages during THD measurement
 - Spectrum-Analyzer screenshots for THD measurements
 
 
@@ -24,6 +24,12 @@ Total Harmonic Distortion (THD) @ 1 kHz
 6.85% @ 1 Watt (4 Ohms load, 2.82 Vrms)  
 3.16% @ 10 Watts (4 Ohms load, 6.32 Vrms)  
 2.86% @ 25 Watts (4 Ohms load, 10.01 Vrms)  
+
+
+## Simulation
+In case you want to simulate the amplifier yourself, LTSpice will miss the Spice-model for the OPAx197 opamp family, which is needed.
+The Spice-Model can be downloaded here: http://www.ti.com/lit/zip/sboma34
+
 
 ## Important
 Please be aware, that this amplifier doesn't have any safety-features (e.g. short-circuit, DC output, overcurrent, over-temperature etc..).
