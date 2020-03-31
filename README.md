@@ -37,7 +37,8 @@ Total Harmonic Distortion (THD) @ 1 kHz
 
 ## Simulation
 In case you want to simulate the amplifier yourself, LTSpice will miss the Spice-model for the OPAx197 opamp family, which is needed.
-The Spice-Model can be downloaded here: http://www.ti.com/lit/zip/sboma34
+The Spice-Model can be downloaded here: http://www.ti.com/lit/zip/sboma34  
+The control-loop has its 0dB crossover point at roughly 122kHz with 39° of phase margin.
 
 
 ## Important
